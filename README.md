@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/Alguien87049796?t=iPAziSz-USyMzkmO4WmbcQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Neuss" height="30" width="40" /></a>
 
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Koyo+un+bot+multifuncional.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Koyo+un+bot+multifuncional.)](https://git.io/typing-svg)
 
 <img src="https://media.discordapp.net/attachments/1074893592201543681/1124073165304377384/png_20230629_162445_0000.png">
 
