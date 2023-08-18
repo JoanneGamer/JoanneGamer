@@ -6,12 +6,6 @@
     <h3 align="center">I am a passionate developer of bots for Discord</h3>
 </div>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Koyo+un+bot+multifuncional.)](https://git.io/typing-svg)
-
-<img src="https://media.discordapp.net/attachments/1074893592201543681/1124073165304377384/png_20230629_162445_0000.png">
-
-• [Invitame](https://discord.com/oauth2/authorize?client_id=$clientID&scope=applications.commands%20bot&permissions=1476783190) • [Soporte](https://discord.gg/DSDjCfgkus) • [Host](https://dash.huguitisnodes.host/) • [Web](https://koyo-web.vercel.app/) • [Privacidad](https://github.com/Neuss2/Pol-tica-de-privacidad-de-Koyo) •
 ---
 
 ### 👨‍💻 About Me :
