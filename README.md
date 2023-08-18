@@ -6,7 +6,7 @@
     <h3 align="center">I am a passionate developer of bots for Discord</h3>
 </div>
 
----
+----
 
 ### 👨‍💻 About Me :
 
